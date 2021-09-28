@@ -1,0 +1,40 @@
+.secondary{
+    color: orange;
+    font-size: 4rem;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-align-last: center;
+}
+
+.image2{
+    width: 35%;
+    height: 800px;
+    align-content: center;
+  }
+
+  .heading{
+    color:rgb(48, 25, 112);
+    font-size: 2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(184, 238, 184);
+   
+  }
+
+  .para{
+    color:rgb(25, 92, 112);
+    font-size: 1.5rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .left>.image2{
+    float: left;
+    align-content: left;
+  }
+
+  .right>{
+  
+    float: right;
+    text-align-last:right;
+    
+
+  }
